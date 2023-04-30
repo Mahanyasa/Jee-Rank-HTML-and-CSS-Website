@@ -1,4 +1,4 @@
-#Project Name: JEE Rank HTML and CSS Website
+Project Name: JEE Rank HTML and CSS Website
 
 Project Description: This project aims to create a website that displays the ranks of students who have appeared for the Joint Entrance Examination (JEE). The website will display the ranks in a tabular format and will also provide filtering options to sort the data based on different parameters.
 
